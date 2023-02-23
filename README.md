@@ -27,4 +27,4 @@ user competes with a computer player, which may follow a variety of strategies, 
 
 ## Development Process
 Dux was my final year project; I was responsible for designing and implementing the game, as well as creating the visual assets.
-The game was coded in C# using Unity.
+The game was coded in C# using Unity over the span of three months.
